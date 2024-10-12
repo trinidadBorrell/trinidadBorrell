@@ -40,10 +40,6 @@ As I continue to build my expertise in  knowledge in computational approaches, I
 
 Thank you for visiting my GitHub! I look forward to sharing more projects and ideas in the future.
 
----
-
-**Trinidad Borrell**
-
 
 
 
