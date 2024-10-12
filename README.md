@@ -22,7 +22,7 @@ This collaborative project done with [@Eitan-Sprejer](https://github.com/Eitan-S
 In this coursework project, my peer [@AgustinBrusco](https://github.com/agustinbrusco) and I studied different ways of modeling **complex systems** dynamics. We explored systems like the Van Der Pol and Duffing oscillators, the Burgers equation using finite differences or **Physics-Informed Neural Networks (PINNs)**, and the **Korteweg-de Vries equation** using the Runge-Kutta or a pseudospectral method.
 
 ### 4. **Ising Model in 2D**
-This collaborative project simulates the **2D Ising Model** —a fundamental model in statistical mechanics used to study phase transitions and ferromagnetism.
+This collaborative project simulates the **2D Ising Model** using the metropolis algorithm.
 
 ---
 
