@@ -5,7 +5,7 @@
 - I’m about to finish my physics degree (_BSc + MSc_) at the University of Buenos Aires.
 - Currently, I am working at [COCUCO lab](https://www.cocucolab.org/).
 - I’m interested in learning more about machine learning, AI, and computational neuroscience.
-- Check out [my website](https://trinidadborrell.github.io/) if you want to know more about the projects here and my experience.
+- Check out [my website](https://trinidadborrell.github.io/) if you want to know more about the projects here and my experience. (WARNING :warning: : probably needs to be updated)
 - Feel free to contact me at: [triniborrell@gmail.com](mailto:triniborrell@gmail.com)
   
 Thank you for visiting my GitHub! I look forward to sharing more projects and ideas in the future :brain: 
