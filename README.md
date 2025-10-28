@@ -9,6 +9,5 @@
   
 Thank you for visiting my GitHub! I look forward to sharing more projects and ideas in the future :brain: 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trinidadBorrell&show_icons=true&theme=dark)
 
 
