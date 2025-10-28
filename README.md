@@ -9,6 +9,7 @@
   
 Thank you for visiting my GitHub! I look forward to sharing more projects and ideas in the future :brain: 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trinidadBorrell&theme=github-compact)
 
 
 
